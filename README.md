@@ -1,12 +1,11 @@
 ![backtothefuture](https://github.com/boroboro01/boroboro01/assets/98679575/b442db09-fe60-46cc-9a15-6d31629c247a)
 
 <div align = 'center'>
-  Seongmin Park(boroboro01)
-  &nbsp; 
+  👶🏻 Seongmin Park(boroboro01)
 
-  📝 Do you want to check my Tistoy Blog? 👉🏻 https://monosandalos.tistory.com/
+  Check my Tistoy Blog 👉🏻 https://monosandalos.tistory.com/
   
-✉️  You can contact me at [duke7272@kyonggi.ac.kr](mailto:duke7272@kyonggi.ac.kr)
+  Contact me 👉🏻 [duke7272@kyonggi.ac.kr](mailto:duke7272@kyonggi.ac.kr)
 </div>
 
 
@@ -47,3 +46,4 @@ Additional
 |:------:|:---:|:---:|
 |Japanese|JLPT|N2|
 |English|TOEIC|725|
+
