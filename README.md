@@ -9,11 +9,11 @@
 </div>
 
 
-Hello
+👋🏻 Hello
 ==================
 Flutter Developer with a passion for mobile application development and a strong background in Firebase database systems.
 
-Projects
+💻 Projects
 ==================
 |Project Name|Content|Repository|
 |:------:|:---:|:---:|
@@ -24,12 +24,19 @@ Projects
 |Sleepo|The website for calculating sleep time|https://github.com/boroboro01/Sleepo|
 
 
-Experience
+🌏 Experience
 ==================
 |Experience|Content|Company/University|
 |:------:|:---:|:---:|
 |Overseas Student Exhange Workshop(2023. 08. 16 - 08. 27|Laerning how to work in real software company|Vellas🇸🇬|
 |Global SW education Program(2024. 09. 01 - 12. 20|Doing research with Perdue University student|Perdue University🇺🇸|
+
+🏆 Prize
+==================
+|Prize|Content|Company/University|
+|:------:|:---:|:---:|
+|🥈 Pre Capstone Design Silver prize(2024. 06. 07)|Win a silver prize in Capstone Design Project Contest|Kyonggi University|
+|🥉 Undergraduate Paper Competition Bronze prize|thesis is favorably reivewed|Korean Institute of Information Technology|
 
 Skills
 ==================
