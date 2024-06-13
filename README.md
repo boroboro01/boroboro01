@@ -36,7 +36,7 @@ Flutter Developer with a passion for mobile application development and a strong
 |Prize|Content|Company/University|
 |:------:|:---:|:---:|
 |🥈 Pre Capstone Design Silver prize(2024. 06. 07)|Win a silver prize in Capstone Design Project Contest|Kyonggi University|
-|🥉 Undergraduate Paper Competition Bronze prize|thesis is favorably reivewed|Korean Institute of Information Technology|
+|🥉 Undergraduate Paper Competition Bronze prize(2023. 11. 24)|Thesis is favorably reivewed|Korean Institute of Information Technology|
 
 Skills
 ==================
