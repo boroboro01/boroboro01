@@ -18,8 +18,8 @@ Flutter Developer with a passion for mobile application development and a strong
 |Project Name|Content|Repository|
 |:------:|:---:|:---:|
 |PocketTeacher|🌱 Application help to increase sociability for children|https://github.com/Capstone-Project-Basic/capstone|
-|Imagine Company||-----||-----|
-|Link:K||-----||-----|
+|Imagine Company|Secondhand Marketplace that validate product|https://github.com/2024-Saphy/App|
+|Link:K|Application help to make a travel plan for k-pop lover💓|https://github.com/follin2024/link_apppart|
 |LastNightonEath|It is simple game that move rocket to destination.|https://github.com/boroboro01/Last-Night-on-Earth|
 |Sleepo|The website for calculating sleep time|https://github.com/boroboro01/Sleepo|
 
@@ -29,7 +29,7 @@ Flutter Developer with a passion for mobile application development and a strong
 |Experience|Content|Company/University|
 |:------:|:---:|:---:|
 |Overseas Student Exhange Workshop(2023. 08. 16 - 08. 27|Laerning how to work in real software company|Vellas🇸🇬|
-|Global SW education Program(2024. 09. 01 - 12. 20|Doing research with Perdue University student|Perdue University🇺🇸|
+|~~Global SW education Program(2024. 09. 01 - 12. 20~~|~~Doing research with Perdue University student~~|~~Perdue University🇺🇸~~|
 
 🏆 Prize
 ==================
@@ -49,7 +49,7 @@ Skills
 
 Additional
 ==================
-|Language|Certification|Grade|
+|Language|Certification|Grade|
 |:------:|:---:|:---:|
 |Japanese|JLPT|N2|
 |English|TOEIC|725|
