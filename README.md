@@ -15,13 +15,14 @@ Flutter Developer with a passion for mobile application development and a strong
 
 💻 Projects
 ==================
-|Project Name|Content|Repository|
-|:------:|:---:|:---:|
-|PocketTeacher|🌱 Application help to increase sociability for children|https://github.com/Capstone-Project-Basic/capstone|
-|Saphy|Used device marketplace that for only product be validated by company🤝🏻|https://github.com/2024-Saphy/App|
-|Link:K|Application help to make a travel plan for k-pop lover💓|https://github.com/follin2024/link_apppart|
-|LastNightonEath|🚀 It is simple game that move rocket to destination !|https://github.com/boroboro01/Last-Night-on-Earth|
-|Sleepo|The website for calculating sleep time|https://github.com/boroboro01/Sleepo|
+|Project Name|Content|Repository|Skill|
+|:------:|:---:|:---:|:---:|
+|Link:K|Application help to make a travel plan for k-pop lover 💓|https://github.com/follin2024/link_apppart|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
+|PocketTeacher|🌱 Application help to increase sociability for children|https://github.com/Capstone-Project-Basic/capstone|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
+|Saphy|Used device marketplace that for only product be validated by company 🤝🏻|https://github.com/2024-Saphy/App|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
+|Let's eat Ki Ryong!|Check today's diet and Write a comment to restaurant in Kyonggi University 🍽️|https://github.com/follin2024/link_apppart|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring&theme=light)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react&theme=light)|
+|LastNightonEath|🚀 It is simple game that move rocket to destination !|https://github.com/boroboro01/Last-Night-on-Earth|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity&theme=light)|
+|Sleepo|The website for calculating sleep time|https://github.com/boroboro01/Sleepo|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light)|
 
 
 🌏 Experience
@@ -43,9 +44,9 @@ Skills
 ==================
 |Field|Skiils|
 |:------:|:---:|
-|Frontend|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter&theme=light)|
+|App|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter&theme=light)|
+|Frontend|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react&theme=light)|
 |Backend|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring&theme=light)|
-|AI|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,langchain&theme=light)|
 
 Additional
 ==================
