@@ -11,7 +11,7 @@
 
 👋🏻 Hello
 ==================
-Flutter Developer with a passion for mobile application development and a strong background in Firebase database systems.
+Developer with a passion for creative development and a strong background in server and client side skill 😎
 
 💻 Projects
 ==================
