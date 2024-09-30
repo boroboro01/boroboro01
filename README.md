@@ -17,10 +17,10 @@ Developer with a passion for creative development and a strong background in ser
 ==================
 |Project Name|Content|Repository|Skill|
 |:------:|:---:|:---:|:---:|
-|Link:K|Application help to make a travel plan for k-pop lover 💓|https://github.com/follin2024/link_apppart|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
+|Let's eat Ki Ryong!|Check today's diet and Write a comment to restaurant in Kyonggi University 🍽️|https://github.com/Kyonggi-Univ-Diet-Information|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring&theme=light)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react&theme=light)|
 |PocketTeacher|🌱 Application help to increase sociability for children|https://github.com/Capstone-Project-Basic/capstone|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
+|Link:K|Application help to make a travel plan for k-pop lover 💓|https://github.com/follin2024/link_apppart|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
 |Saphy|Used device marketplace that for only product be validated by company 🤝🏻|https://github.com/2024-Saphy/App|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
-|Let's eat Ki Ryong!|Check today's diet and Write a comment to restaurant in Kyonggi University 🍽️|https://github.com/Kyonggi-Univ-Diet-Information/BE|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring&theme=light)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react&theme=light)|
 |LastNightonEath|🚀 It is simple game that move rocket to destination !|https://github.com/boroboro01/Last-Night-on-Earth|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity&theme=light)|
 |Sleepo|The website for calculating sleep time|https://github.com/boroboro01/Sleepo|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light)|
 
