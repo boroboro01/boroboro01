@@ -47,6 +47,8 @@ Skills
 |App|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter&theme=light)|
 |Frontend|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react&theme=light)|
 |Backend|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring&theme=light)|
+|ETC|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,aws&theme=light)|
+
 
 Additional
 ==================
