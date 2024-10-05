@@ -9,11 +9,11 @@
 </div>
 
 
-👋🏻 Hello
+👋🏻 나이스 투 미츄
 ==================
 A developer with a passion for creative development, a strong background in both server and client-side skills, and a keen observer of the world. 😎
 
-💻 Projects
+💻 해 본 프로젝트
 ==================
 |Project Name|Content|Repository|Skill|
 |:------:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ A developer with a passion for creative development, a strong background in both
 |Sleepo|The website for calculating sleep time|https://github.com/boroboro01/Sleepo|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=light)|
 
 
-🌏 Experience
+🌏 해 본 경험
 ==================
 <table>
   <tr>
@@ -60,7 +60,7 @@ A developer with a passion for creative development, a strong background in both
 
 
 
-🏆 Prize
+🏆 받은 상
 ==================
 <table border="1" cellspacing="0" cellpadding="10" align="center">
   <tr>
@@ -83,7 +83,7 @@ A developer with a passion for creative development, a strong background in both
 
 
 
-Skills
+쓸 수 있는 기술
 ==================
 |Field|Skiils|
 |:------:|:---:|
@@ -93,7 +93,7 @@ Skills
 |ETC|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=jenkins,docker,aws&theme=light)|
 
 
-Additional
+더 많은 것
 ==================
 |Language|Certification|Grade|
 |:------:|:---:|:---:|
