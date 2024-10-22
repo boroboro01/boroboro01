@@ -13,6 +13,8 @@
 ==================
 A developer with a passion for creative development, a strong background in both server and client-side skills, and a keen observer of the world. 😎
 
+스스로 생각하고 기획할 줄 알는 개발자입니다.
+
 💻 해 본 프로젝트
 ==================
 |Project Name|Content|Repository|Skill|
