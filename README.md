@@ -1,7 +1,7 @@
 ![backtothefuture](https://github.com/boroboro01/boroboro01/assets/98679575/b442db09-fe60-46cc-9a15-6d31629c247a)
 
 <div align = 'center'>
-  👶🏻 Seongmin Park(boroboro01)
+  👶🏻 박성민, Seongmin Park(boroboro01)
 
   Check my Tistoy Blog 👉🏻 https://monosandalos.tistory.com/
   
