@@ -20,6 +20,7 @@ A developer with a passion for creative development, a strong background in both
 |Project Name|Content|Repository|Skill|
 |:------:|:---:|:---:|:---:|
 |Let's eat Ki Ryong!|Check today's diet and Write a comment to restaurant in Kyonggi University 🍽️|https://github.com/Kyonggi-Univ-Diet-Information|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=spring&theme=light)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react&theme=light)|
+|Carely|Application that helps build relationships for family caregivers🤍 (Participated as a Product Manager)|https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_43_FE|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=notion&theme=light)|
 |PocketTeacher|🌱 Application help to increase sociability for children|https://github.com/Capstone-Project-Basic/capstone|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
 |Link:K|Application help to make a travel plan for k-pop lover 💓|https://github.com/follin2024/link_apppart|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
 |Saphy|Used device marketplace that for only product be validated by company 🤝🏻|https://github.com/2024-Saphy/App|![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter&theme=light)|
@@ -41,11 +42,6 @@ A developer with a passion for creative development, a strong background in both
     <td align="center"><img src="https://github.com/user-attachments/assets/b0e459de-ca12-49af-8fc5-b8925693f77a" width="100"></td>
   </tr>
   <tr>
-    <td align="center"><s>Global SW education Program(2024. 09. 01 - 12. 20)</s></td>
-    <td align="center"><s>Doing research with Perdue University student</s></td>
-    <td align="center"><s>Perdue University🇺🇸</s></td>
-  </tr>
-  <tr>
     <td align="center">InQ Dev Team(2024. 03 ~ )</td>
     <td align="center">Kyonggi University Software Development Society(Officers)</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/a303c76f-7af9-428d-894e-0fd18370f3e2" width="80"></td>
@@ -53,11 +49,19 @@ A developer with a passion for creative development, a strong background in both
   <tr>
     <td align="center">GoormthonUniv 3rd(2024. 08 ~ 2024. 12)</td>
     <td align="center">Software Development Society for Hackerthon</td>
-    <td align="center"><img width="100" alt="노션 프로필용" src="https://github.com/user-attachments/assets/cb26a99e-4f9f-44d4-9860-7f7c9bdaccb3">
-</td>
+    <td align="center"><img width="100" alt="구름톤 유니브" src="https://github.com/user-attachments/assets/cb26a99e-4f9f-44d4-9860-7f7c9bdaccb3"></td>
+  </tr>
+    <tr>
+    <td align="center">DANPOONGTHON 3rd(2024. 12)</td>
+    <td align="center">Hackathon for Solving Social Issues</td>
+    <td align="center"><img width="100" alt="단풍톤" src="https://github.com/user-attachments/assets/1df594f6-7bd3-4283-898a-cc1140db55e4"></td>
+  </tr>
+    <tr>
+    <td align="center">2025 GCSC(2025. 01)</td>
+    <td align="center">University Startup Camp for Solving Social Issues Shared by Korea and Japan</td>
+    <td align="center"><img width="100" alt="가천대학교 코코네스쿨" src="https://github.com/user-attachments/assets/747020d6-4ebe-4943-94f9-5d5240c748b4"></td>
   </tr>
 </table>
-
 
 
 
