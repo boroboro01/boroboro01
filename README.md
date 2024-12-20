@@ -46,6 +46,11 @@ A developer with a passion for creative development, a strong background in both
     <td align="center">Kyonggi University Software Development Society(Officers)</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/a303c76f-7af9-428d-894e-0fd18370f3e2" width="80"></td>
   </tr>
+    <tr>
+    <td align="center">KGU Startup Business Model Build-Up Program(2024. 10 ~ 2024. 11)</td>
+    <td align="center">Startup Business Model Mentoring and Evaluation Program</td>
+    <td align="center"><img width="80" alt="Screenshot 2024-10-04 at 11 19 40 PM" src="https://github.com/user-attachments/assets/80632cdb-22e6-4be0-809f-e650b7529fcf"></td>
+  </tr>
   <tr>
     <td align="center">GoormthonUniv 3rd(2024. 08 ~ 2024. 12)</td>
     <td align="center">Software Development Society for Hackerthon</td>
