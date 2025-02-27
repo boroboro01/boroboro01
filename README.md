@@ -89,6 +89,11 @@ A developer with a passion for creative development, a strong background in both
     <td align="center">Thesis is favorably reviewed</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/867e8d6e-86b9-4d29-8d7f-8c97520c8d8f" alt="Korean Institute of Information Technology Image" width="100"></td>
   </tr>
+  <tr>
+    <td align="center">🥈 GCSC Runners-up Excellence Award (2025. 01. 12)</td>
+    <td align="center">Startup Idea Hackathon on Aging Society</td>
+    <td align="center"><img width="100" alt="image" src="https://github.com/user-attachments/assets/335faf8e-589f-47e7-9acb-8ae3f0c7f567" /></td>
+  </tr>
 </table>
 
 
