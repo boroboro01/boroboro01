@@ -66,6 +66,12 @@ A developer with a passion for creative development, a strong background in both
     <td align="center">University Startup Camp for Solving Social Issues Shared by Korea and Japan</td>
     <td align="center"><img width="100" alt="가천대학교 코코네스쿨" src="https://github.com/user-attachments/assets/747020d6-4ebe-4943-94f9-5d5240c748b4"></td>
   </tr>
+  </tr>
+    <tr>
+    <td align="center">Global AI Training at Purdue Univerity(2025. 06 ~ 2025. 08)</td>
+    <td align="center">Global AI Research and Training Program with Students at Purdue University</td>
+    <td align="center"><img width="100" alt="Purdue University" src="https://github.com/user-attachments/assets/b3e21d96-647c-44c3-b8ec-05ee0dbd2f8b"></td>
+  </tr>
 </table>
 
 
