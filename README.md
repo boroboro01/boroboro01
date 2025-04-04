@@ -37,7 +37,7 @@ A developer with a passion for creative development, a strong background in both
     <th>Company/University</th>
   </tr>
   <tr>
-    <td align="center">Overseas Student Exhange Workshop(2023. 08. 16 - 08. 27)</td>
+    <td align="center">Overseas Student Exhange Workshop 🇸🇬(2023. 08. 16 - 08. 27)</td>
     <td align="center">Learning how to work in real software company</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/b0e459de-ca12-49af-8fc5-b8925693f77a" width="100"></td>
   </tr>
@@ -68,7 +68,7 @@ A developer with a passion for creative development, a strong background in both
   </tr>
   </tr>
     <tr>
-    <td align="center">Global AI Training at Purdue Univerity(2025. 06 ~ 2025. 08)</td>
+    <td align="center">Global AI Training at Purdue Univerity 🇺🇸(2025. 06 ~ 2025. 08)</td>
     <td align="center">Global AI Research and Training Program with Students at Purdue University</td>
     <td align="center"><img width="100" alt="Purdue University" src="https://github.com/user-attachments/assets/b3e21d96-647c-44c3-b8ec-05ee0dbd2f8b"></td>
   </tr>
